@@ -1,5 +1,5 @@
-import { Game } from './game.js';
-import utilities from './utilities.js';
+import Game from './game.js';
+
 
 window.onload = () => {
     const game = new Game();
